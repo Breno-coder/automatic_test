@@ -32,4 +32,9 @@ class avaliador
     {
         return $this->menorvalor;
     }
+
+    public function FunctionName(Type $var = null)
+    {
+        # code...
+    }
 }
